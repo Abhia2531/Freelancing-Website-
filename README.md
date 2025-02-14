@@ -54,8 +54,8 @@ To get started with the project, follow these steps:
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/yourusername/freelance-website.git
-cd freelance-website
+git clone https://github.com/Abhia2531/Freelance-Website.git
+cd Freelance-Website-
 ```
 
 ### Create a Virtual Environment and Install Dependencies
@@ -137,11 +137,7 @@ freelance-website/
 3. Commit your changes (`git commit -m 'Add new feature'`).
 4. Push to the branch (`git push origin feature/YourFeature`).
 5. Open a Pull Request.
-
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
-
+   
 ---
 
 Thank you for checking out the Freelance Website Project! We look forward to your contributions and feedback. Happy coding!
